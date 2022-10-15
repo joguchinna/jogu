@@ -18,7 +18,7 @@ git status
 git commit -m "label" file1
 git status
 git log 
-git show cid                         m.,m.,m.,m.,m.,m,mmm,
+git show cid
 
 
 touch file2 file3 file4
@@ -34,7 +34,7 @@ git status
 git commit -m "label"
 git log 
 git show cid 
-                                      mmm.,m.,m.,m.,m
+
 
 =============================================
 
@@ -49,4 +49,4 @@ git commit -m "label" file1
 git status 
 git log 
 git push 
-                                jkjjljlkj
+
