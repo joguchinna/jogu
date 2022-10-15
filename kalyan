@@ -18,7 +18,11 @@ git status
 git commit -m "label" file1
 git status
 git log 
+<<<<<<< HEAD
 git show cid                       ljljljljljljljljljjjljl
+=======
+git show cid                         m.,m.,m.,m.,m.,m,mmm,
+>>>>>>> parent of 198d1b5 (Revert "Revert "Revert "sample file""")
 
 
 touch file2 file3 file4
@@ -34,7 +38,11 @@ git status
 git commit -m "label"
 git log 
 git show cid 
+<<<<<<< HEAD
                           klklklklklk k lkl l klk lkl klk lkl klk
+=======
+                                      mmm.,m.,m.,m.,m                      bgbgbgbgbgnghnhnhnhnhnhnhnhnhhnhn
+>>>>>>> parent of 198d1b5 (Revert "Revert "Revert "sample file""")
 
 =============================================
 
@@ -49,4 +57,8 @@ git commit -m "label" file1
 git status 
 git log 
 git push 
+<<<<<<< HEAD
                  klklklk kl klklklklk lklklklkl klklklk
+=======
+                                jkjjljlkj
+>>>>>>> parent of 198d1b5 (Revert "Revert "Revert "sample file""")
