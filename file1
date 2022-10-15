@@ -7,3 +7,4 @@ create data, add, commit
 git checkout release1
 ls
 git merge main ss
+hi hello how are you 
