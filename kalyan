@@ -2,7 +2,7 @@ git init
 git config --global user.name "jogu chinna"
 git config --global user.email "joguchinna193@gmail.com"
 
-git config --list                                
+git config --list                                k;k;k;k;k;k;;k;k;k;kk;k;;kk;k;k;k;kk;k;k;kk;
 
 git config --global --unset user.name
 git config --global --unset user.email
@@ -18,7 +18,7 @@ git status
 git commit -m "label" file1
 git status
 git log 
-git show cid                       
+git show cid                       ljljljljljljljljljjjljl
 
 
 touch file2 file3 file4
@@ -34,7 +34,7 @@ git status
 git commit -m "label"
 git log 
 git show cid 
-                          
+                          klklklklklk k lkl l klk lkl klk lkl klk
 
 =============================================
 
@@ -49,4 +49,4 @@ git commit -m "label" file1
 git status 
 git log 
 git push 
-             
+                 klklklk kl klklklklk lklklklkl klklklk
